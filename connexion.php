@@ -73,11 +73,6 @@ include __DIR__ . '/menu.php';
             </button>
         </form>
 
-        <div class="auth-footer">
-            <p><strong>Comptes de démonstration :</strong></p>
-            <p>Admin : <code>admin</code> / <code>password</code></p>
-            <p>Éditeur : <code>editeur1</code> / <code>password</code></p>
-        </div>
     </div>
 </div>
 
