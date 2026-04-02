@@ -21,7 +21,7 @@ mysql -u root -p < base_de_donnees.sql
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'actualites_db');
 define('DB_USER', 'root');
-define('DB_PASS', 'votre_mot_de_passe');
+define('DB_PASS', '');
 ```
 
 #### 3. Lancer le serveur
